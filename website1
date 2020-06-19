@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+	<head>
+		
+		<title>robotics control</title>
+		<style>
+			
+			body
+			{
+				background-color: gray;
+			}
+			
+			button
+			{
+				font-size: 32px;
+				padding: 15px;
+				border-radius: 15px;
+				margin: 22px;
+				width: 150px;
+			
+			}
+			
+			#bt1
+			{
+				background-color:blue;
+				position: relative;
+				top:350px;
+				
+				
+			
+			}
+			
+			#bt2
+			
+			{
+				background-color:blue;
+				position: relative;
+				top:350px;
+				left:220px
+			}
+			
+			#bt3
+			
+			{
+				background-color:blue;
+				position: relative;
+				top:200px;
+				right:180px;
+			}
+			
+			#bt4
+			
+			{
+				background-color:blue;
+				position: relative;
+				top:500px;
+				right:380px;
+				
+			}
+			#bt5
+			
+			{
+				background-color:blue;
+				position: relative;
+				top:350px;
+				right:580px
+			}
+			
+		</style>
+	</head}
+	
+	<body>
+		
+		
+		
+		
+		<button id="bt1">Left</button>
+		
+		<button id="bt2">Right</button>
+		
+		<button id="bt3">up</button>
+		
+		<button id="bt4">Down</button>
+		
+		<button id="bt5">Stop</button>
+	
+	
+	</body>
+	
+
+
+
+
+
+
+
+
+
+</html>
